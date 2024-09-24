@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working with **HTML, CSS, SCSS, JAVASCRIPT, REACT.JS**
+- 🔭 I’m currently working with **HTML, CSS, SCSS, JAVASCRIPT, REACT**
 
 - 🌱 I’m currently learning **new programming languages, frameworks, and technologies to expand my skill set.**
 
